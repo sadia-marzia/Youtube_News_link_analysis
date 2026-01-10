@@ -1,0 +1,10 @@
+dash
+plotly
+requests
+beautifulsoup4
+transformers
+google-api-python-client
+gunicorn
+pandas
+python-dotenv
+torch
