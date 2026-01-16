@@ -21,10 +21,10 @@ It supports text extraction, sentiment analysis, word frequency analysis, and vi
 
 - Uses **Bangla BERT model** (`ahs95/banglabert-sentiment-analysis`) for sentiment detection on Bangla text.
 - Clean, interactive **Dash web interface** for easy input and visualization.
-
----
 ## Visualization
 https://sadiamarzia-content-analysis-dashboard.hf.space/
+
+---
 
 ## Installation
 
